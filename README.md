@@ -7,14 +7,16 @@ This repository was created to be a place where we can share the ideas.
 - The wiki can be used to store information and documents
 
 
-Below are the links for our 3 meeting places
+Below are the links for our 4 meeting places
 
 https://github.com/hard-work-aunts
 
 https://plus.google.com/communities/107866086853845026519
 
+http://okfnpad.org/the-hard-working-aunts (initial discussions)
+
 http://okfnpad.org/hwa-help (help page)
 
 
 
-*If a new repostiroy is required please tell the admin, for now eluttner, puntofisso and shellz123 
+*If a new repository is required please tell the admin, for now eluttner, puntofisso and shellz123 
