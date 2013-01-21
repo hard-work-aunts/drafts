@@ -17,6 +17,8 @@ http://okfnpad.org/the-hard-working-aunts (initial discussions)
 
 http://okfnpad.org/hwa-help (help page)
 
+http://okfnpad.org/hwa-dataquest (for comments on data sources)
 
+http://okfnpad.org/hwa-tech (for commenting technical aspects)
 
 *If a new repository is required please tell the admin, for now eluttner, puntofisso and shellz123 
