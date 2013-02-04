@@ -1,0 +1,255 @@
+INTRODUCTION
+This document reports the work of the 'Hard Working Aunts', one of an unknown number of teams of volunteers to the School of Data's first data expidition.
+
+Chronology
+13 January: welcome email from misson control to 35 explorers – explains their allocation to the Hard Working Aunts on the basis of a balance skills and similar timezones.
+
+14-15 January: 30 aunts use group mail to introduce themselves to others
+
+WEEK1
+15 January: brief sent by email from misson control outlines issue to explore:
+"leading scholars of flatland … have noticed strange disturbances in the way their world works. They noticed more and more Flatlanders are thicker and heavier. They claim it was predominantly the higher classes (hexagon and above) that showed the above regular bodyweights previously - but recent studies showed that it is more commonly spread among triangles and squares (the lower classes) now. 
+
+In the research we’ve done - we have found one indicator commonly used by
+flatland scholars: the body mass index: it is calculate by the mass of the
+inhabitant and the height of the inhabitant (the height is the geometric
+height) as mass(kg)/(height (m))^2. We do believe that this is the key
+measurement we have to pay attention to."
+
+the brief gave "three weeks to solve this crisis" - expecting a final report on 5 February 2013 and urged everyone to introduce him- or herself as follows:
+Describe yourself in 3 words:
+I am good at:
+I need help with:
+I want to learn:
+My favorite food:
+
+15 January: Michael Bauer <michael.bauer@okfn.org> of OKFN introduced himself as the aunts Guide; "for second line support - clarifying things mission
+control did not clarify enough - helping you out when you are stuck". 
+He noted: 
+* "Most of you already have done introductions: You are amazing. Ignore Mission Control for the time being…
+* "It is important that you as a group figure out how to best work together -
+how to communicate effectively and what tools to use to cooperate. (And
+don’t start a huge tool discussion - be pragmatic. please!. pretty
+please!). One thing that might help is to find a person willing to
+coordinate the group effort. So if you are willing to do so: step up!
+* Another team of explorers, "the Courteous Clauses, have already set up a Google+ Community to log their progress and a hackpad. I encourage all other groups to build similar things - figure out ways to work together...
+Do we want hangouts to get to know each other closer? How do you want to
+collect ideas, data and your reserach findings…"
+
+15 January: aunt Eduardo Luttner creates a Google+ group
+https://plus.google.com/u/0/communities/101460446662320267920
+and a github project for the team https://github.com/eluttner/hard-work-aunts
+He explains what both websites do and offers support to othrs less expert.
+
+during the day several aunts notify Eduardo of their github name.
+
+15 January: aunt Ian Borthwick asks whether the (public) Google+ group should in fact be private; consequently Eduardo sets up a private group.
+
+15 January: aunt Gareth Glynn suggests a good starting point would be a clear definition of the task and asks if the (private) Google+ community be the place to post ideas
+
+15 January: aunt Steffy Suhr highlights the First task: get organised
+
+15 January: aunt Michelle Brook suggests making a note of anyone who is not willing to join up to either G+ or github, so that we can find ways to regularly communicate with these members of the team.
+
+aunt Cheeseman suggests aunts use the Etherpad for this but notes it is public
+
+15 January: aunt Michael Hörz creates a google spreadsheet (and subsequently opens write access to all) for collecting aunts' personal data such as github 
+names and to reduce the volume of mails
+
+15 January: aunt Ian Borthwick proposes scheme for communication/collaboration:
+* for project updates/team chasing/generic questions, the list serv (xp-the-hard-working-aunts@lists.dataexpeditions.org)
+* for collaborative workspace, a private group such as on Google+ 
+* for technical coding work underway, github and etherpad
+
+aunt Jodi Schneider questons use of Google+ on personal privacy grounds; Ian Borthwick responds suggesting:
+general discussion - still list serv or also G+?
+- group discussion on focussed topics (defining issues, approaches) - on G+ or here?
+- records of actions, etc - G+ spreadsheet or google doc?
+- technical group work/correspondence (data sources, coding, analysis) - on G+/github/etherpad?
+
+aunt Cheeseman suggests using open systems as much as possible, so everyone
+can participate and no one has to be forced into a service.
+
+16 January: first contributions posted on Etherpad
+
+16 January: guide Michael Bauer advises Gareth Glynn to "think about what
+questions you want to answer - try to brainstorm as creatively as you can
+and don't bind yourself to mission control". He urges the group to "try things you might be unconfortable with, you never did but always wanted to or you never thought
+of before. Share what you're doing with others so they can learn alongside
+or help you out".
+
+16 January: aunt Patrick Dumon sets up a Google spreadsheet with the aim of getting a decision on which collaborative tools to adopt; it enables  a vote on the preferred communication/brainstorming tool 
+
+individual aunts express support for various channels esp github and erherpad
+
+16 January: aunt Ian Borthwick suggests reviewing requirement "for working groups for story telling to help define the story flatland audiences will be interested in (and other questions on the way) and a data/analysis team to help source, collate, code upon and analyse the data … we might not really need an overall co-ordinator (we just need the problem(s) to focus on!)".
+ 
+16 January: aunt Michael Hörz suggests that everbody enters their preferred time frame for working on this expedition into the Google spreadsheet, to establish when working together is best possible or if there are common frames.
+
+17 January: aunt Patrick Dumon reports that Open Knowledge Pad was the preffered collaboration tool amongst spreadsheet voters. He proposes migrating the G+ private content to the Open Knowledge Pad; six aunts express support for that 
+ 
+17 January: mission control emails group to say "your group has
+decided for the following modes of organization:
+A Google+ Community on:
+https://plus.google.com/communities/107866086853845026519
+An Etherpad on:
+http://okfnpad.org/the-hard-working-aunts "
+
+some aunts report diffculty accessing Google+ Community
+
+17 January: mission control emails group to 'Let the work begin'; it lists the tasks: 
+* Find available Data and resources (on body weight and other data) and share them with each other
+* Discuss the angle of the story you are particularly interested in exploring
+
+17 January: On etherpad (and Google+) aunt Gareth Glynn starts an attempt to define the challenge:
+'To quantify the body mass index (BMI) of defined populations and identfiy common factors that lead to it increasing'
+
+Patrick Dumon summarises this and other proposals incl.:
+* Ian Borthwick: look at data on clothing sizes
+* John Palmer: prevalence of fast food outlets in deprived and non-deprived areas (using IMD indices) 
+
+17 January: on the Etherpad guide Michael Bauer posts that the aunts have "a large flexibility on deciding what data to use and which specific question to address (and how to do it). The general topic is set by mission control (They seem to want us do something around obesity and Bodyweight) - but from here on you can determine the angles to take - I'd encourage you to try something you've never tried … What questions come to your mind when you think about Bodyweight/Obesity? What questions could you answer with data? 
+
+17 January: On the etherpad Michael Hoerz, Patrick Dumon and Jorge Jorge Camoes exchange ideas about  datasets from sources incl WHO, IMD and US Govt.
+
+17 January: On the etherpad Sergio Quiros Navas posts: "When I first read the data expedition guidelines, I totally overlooked the poligon-related information and focused on the parentheses: higher classes and lower classes. I figured we had to analyze the evolution of the relation between socioeconomic factors and BMI. However, I've seen the discussion above about shapes of poligons and I am really confused …"
+
+17 January: On the etherpad Eduardo Luttner suggests "Since we only have an abstract specification, I think that we should try to work with it." He proposes finding "data that correlates social indicators, height, weight and shape of the population" and examines:
+- could be that obesity is happening in poorer countries? why would it be happening?
+- Not only in poorer countries, but poorer populations in the same country?
+- do they have now access to more protein? is food contamined (hormones, transgenic)? 
+- is it better for companies to increase obesity in people, so that people eat more and these companies have more profit?
+
+In response Gareth Glynn attempts to build these questions into a revised mission objective:
+* to identify comparable data that correlates social indicators, height, weight and shape of the population at national level
+* to correlate that data with: 
+- GDP and/or other measures of national wealth
+- average life expectancy
+- causes of death 
+
+John Palmer responds that BMI is no longer really recognised as an effective measure of obesity". He reports looking for other correlations … the prevalence of fast food outlets in deprived and non-deprived areas (using Indices of Multiple Deprivation) In effect this is an exploration of the ill-health impacts of obesogenic environments and whether these are more prevalent in deprived areas than non-deprived ones within specific countries.  (In poorer countriesof the world, where diets of  the top socio-economic 10% are changing fast, you are likely to get the opposite correlation.)
+
+Patrick Dumon lists strengths and weaknesses of BMI 
+
+Ian Borthwick posts "Fundamentally, our task seems to be about correlation of data trends, rather than causal links, as these would require full testing (but correlation can help define hypotheses)".
+
+18 January: Patrick Dumon, James Bulmer, Patrick Hausmann, active on Etherpad exchanging ideas and knowledge. James Bulmer sets up a data repository https://github.com/hard-work-aunts/drafts 
+
+18 January: on the etherpad Michelle B suggests looking, "to start with, at BMI and look at corelating factors, exercise levels amongst certain populations (i'm not sure if this data set exists?), and perhaps other food habits amongst these populations. We could look across a variety of countries, and see how these vary, if there are common factos across cultures etc.
+    
+James Bulmer reports he "made a start on this -> https://github.com/hard-work-aunts/james-bulmer - trying to map as many fast food chanes as possible then displaying this against obesity and wealth
+
+Serena responds "would it help to summarize our hypothesis and then trying to interpret the datasets we find? so e.g.,
+1) we think there is a correlation between BMI and fast food outlets in the US: areas with higher BMI will have more fast food outlets
+2) We think there is a corelation between socio-economic factors and BMI: poorer areas have higher BMIs
+-should we focus on a single country for now like the US? Or try to find as many data sources as possible, for continents, countries etc"
+
+Guiseppe adds:"What if we do US + another country with a perceived "healthier" lifestyle? We might be able to prove the point by comparison."
+
+17-18 January: reference information posted on Etherpad including sources/resources, the mission brief
+
+19 January: James Bulmer works on data - posting a visualisation he has created http://fastfood.jabulmer12.com of the USA showing the density of fast food stores / person. On the etherpad James helps Patrick Dumon who want sto add Dunkin Donuts data with github basics and post his visualisation script http://fastfood.jabulmer12.com/Small%20Scripts/xml.php
+
+James (undated) posts that he's been "working on the USA for now because there was more data to hand … Note this experoment won't be 100% conclusive … but hopefully it will show the corrolations that were after. 
+
+19 January: on the Etherpad Michael Hoerz picks up Ina Borthwicks interests in clothes sizes and posts links to a couple of relevant datasets. 
+
+20 January: on the Etherpad Michael Hoerz notes that anthropometric data isn't really available. Picking up cmetns that BMI is not the ideal measure, he leads on to a discussion about useful metrics, saying "The Body Volume Index would probably be exactly what we are looking for, but it as well is not established enough yet."
+
+2O January: On the etherpad Patrick Dumon posts ideas about US state level data that might be useful. Eduardo Luttner seeks to confirm what data is actually being used and suggests: 
+* Maybe compare the number of fast food chains with population, so that we end up with e.g. 'There is one fast food restaurant per 100 people in Alabama'?
+* If we map this against BMI and socio-economic data (average income per capita?), we could test the hypothosis 'Poorer states tend to have proportionally more fast food restaurants and proportionally higher BMIs'
+Patrick responds he would split this up:
+'Poorer states tend to have proportionally more fast food restaurants (-> depends on quality of the data sets for fast food restaurants)
+Poorer states tend to have proportionally higher BMIs'. (-> this should be easy to check)
+Eduardo also suggests: If we have time, we could then compare this with another contrasting country like India or China
+Michael Hoerz suggests that with its open data movement Brazil could be a source of data and highlights India too.
+Patrick suggests looking at supposed healthier diet (eg: compare with some mediterranean country like Spain or Italy). 
+Eduardo also suggests: Find data on the population of different US States:  Serena: This data contains the population of different US states until 2011. I can scrape that if needed: http://www.infoplease.com/ipa/A0004986.html
+* Compare that data with the data James has gathered on fast food changes
+* Find state-level data on BMI in the US
+* Find state-level data on income per capita (or an alternative measure of 'prosperity', suggestions welcome).
+* Repeat everything (including gathering fast food data) for another country - maybe China / India.
+Patrick, Michael Hoerz[?] and James exchange ideas and practical observations on wrangling the data
+ 
+2O January: On the etherpad Serena seeks James' help in trying to run his script locally, i am not sure maybe i do something wrong. Just wanted to see the project locally
+
+21 January: On the etherpad Mihi explains to Serena that additional webservices[?] are required to run the script locally. James Bulmer says he may include the files required on github to make life easier
+
+21 January: On the etherpad Gareth Glynn addreses a post to
+James/Patrick/Michael/Serena/Mihi asking that for those of us with less data manipulation experience, could you to summarise in one para or a few bullets, and the simplest language possible, where you've got to and how?
+
+Patric Dumon says hes created some new pads for different "themes": a help page that has not seen much use, a different pad (http://okfnpad.org/hwa-dataquest ) with the purpose of data gathering and yet another one for tech discussions (http://okfnpad.org/hwa-tech) 
+
+21 January: aunt Michael Hörz notes in a group email that "we are drifting apart a little bit right now. Some of has have quickly dug into large numbers of data and have processed them, while others had just started to introduce themselves. No offence taken, that's a port of group dynamics."
+
+He sums up what has evolved: a first working consensus within the Etherpad (http://okfnpad.org/the-hard-working-aunts) and what requires more input/reasoning 
+
+Basic focus is on the Body Mass Index, and looking if there is a correlation between fast food outlets, income, education and other socio-economic factors. Also: change of diet (http://www.ers.usda.gov/data-products/food-availability-%28per-capita%29-data-system.aspx) 
+Due to easy data availability, James Bulmer generated a map on  . Patrick Hausmann is doing some tries on the density of fast food outlets: https://www.dropbox.com/s/9osmbrlnh6jsz5t/fastfoodmap.jpg 
+
+He suggests "it would make sense to compare the US to another country that has not been so wealthy the last 50 years, such as China, Brasil or India"
+
+21 January: commenting on progress aunt John Palmer suggests:
+* to regress the correlations against socio-economic status.  In Scotland this is easy because we publish a Scottish Index of Multiple Deprivation, which has a series of data starting from 2004. The latest version has just been published (http://www.scotland.gov.uk/Topics/Statistics/SIMD). England & Wales do something similar.
+* Fast food, at least in the UK, is not just produced by big US chains - there are a lot of small independents, takeaways etc etc. The following source has a load of downloadable XML files on food hygiene ratings, which could be a proxy measure of the number of ff outlets in an area http://ratings.food.gov.uk/open-data/en-GB - you have to scroll down the page.
+
+WEEK2
+22 January: mission control email 'Week 2: Moving from Scouting to Data Gathering, Analysis and more' says "By now you should have one or several
+plans on how to tackle the problem Flatland is facing." It reminds aunts "This is a learning experience by doing - you will get the most out of it by doing something new.. All of you also come with a set of skills they can teach - look back at the introduction round, make some friends. Everyone can teach something!"
+
+23-4 January: following more discussion on the etherpad about what data should be sought Gareth Glynn proposes that a group each try to find one (different) category of relevant data for at least 4 nations, eg US, Brazil, India and UK , that breaks down regionally or by state. 
+Eduardo lists
+* weight / BMI data 
+* fast food data
+* income/poverty
+* age pyramid 
+* transgenic food consumption 
+- young people eating transgenic food (less vegetables)
+- Industrial food 
+- access to better transportation and computers
+- access to digital life, TV, computers, iPads 
+* exercise or physical activity
+
+24 January: on the etherpad Gareth Glynn suggests: Maybe we need some fresh insights … There's a lot of data on BMI for EU countries http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Overweight_and_obesity_-_BMI_statistics  which shows overall patterns and interesting variations. 
+
+John Palmer asks more about the data, in particular whther it shows actual causes of death against the biggest risk factors for premature death. In response Gareth mentions the  EU's HEIDI data tool http://ec.europa.eu/health/indicators/echi/list/index_en.htm#id2 has a wide range of national indicators, including disease specific mortality and life expectancy by educational attainment, plus health indicators including BMI, fruit and veg consumption, blood pressure, physical activity.
+
+22-25 January: [dates tbc] more information posted on Etherpad including data sources/resources, the tasks, visualsiation possibilities
+
+
+25 January:
+On the etherpad Mihi suggests the need "to clearly summarize the expedition so far at the top and make clear what are tasks to be done... Eduardo Luttner responds by posting a link to the etherpad todo list http://okfnpad.org/hwa-todo-list
+
+25 January: aunt Gareth Glynn mails group reporting that "A group of aunts has been looking for comparable data so we could make international comparisons. We have found some comprehensive datasets on BMI for EU countries which show overall patterns and interesting variations:
+http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Overweight_and_obesity_-_BMI_statistics" He suggests that it would it be worth studying the EU data in more depth to look for reasons for national differences in BMI/health amongst countries countries with similar overall standards of living. Maybe the degree of inequality (eg the Gini index) within countries could offer some explanation? … We are appealing to aunts with the skills to scrape, compile and correlate this data to respond if they see this as a worthwhile area to explore. 
+
+25 January: on the etherpad Patrick Dumon comments he's say that "starting to suffer from data overdose. There is a vast amount of data and there is a wide variety (across different countries) of detail in that data. A practical question: say we can decide on which data to inspect (which we will have to do at a given moment) and I download a datafile. Where do I put it up for inspection
+Michael Hoerz reponds it probably would make sense to agree on the most common things -- after all we have to try to find the data in other countries. 
+We might want to go through the available data (I want to do this on this weekend) and then decide on Monday which aspects make sense in terms of availability, comparability etc.
+Once we have done this, we should quickly switch to the to-do list http://okfnpad.org/hwa-todo-list Eduardo has created.
+
+28 January: Michael Hörz mailed the group commenting: "if we were just were looking at Europe, even very far-off questions could be adressed … But data on India makes it look different … Indian scientists say that the population has a prevalent tendency to gather body fat around the belly - which in contrary to getting fatter all over the body makes Indians especially vulnerable to diabetes. Therefore India is expected to be the world's diabetes capital by 2050. Because of India and diabetes adding the current diabetes rate to our factors would make sense to me.
+"Quite a few facts and figures can be retrieved by WHO and FAO, so comparisons are possible. Unfortunately, it's only on a national level. We would need at least the federal states / provinces (depending on country) for a decent interpretation.
+"On the current selection of countries (USA, Brazil, UK, India) … in terms of comparison actually France would make more sense than the UK … Compromise: Include both 
+"Only a rather small crowd appears active in the Etherpad (http://okfnpad.org/the-hard-working-aunts) - all of the regular contributors also are on Google+ - one suggestion therefor would be to switch back to G+ for the sake of readability and structure.
+
+WEEK3
+29 January: aunt Michael Hörz added: "I didn't want to suggest dropping the European data … I just wanted to say that we might not get the same level of detail for countries like Brazil or India. 
+"One other possibility would be doing two paths: 
+a) Comparing four countries such as USA, Brazil, GB and India on the general level.
+b) In-depth comparison of GB, France, Poland and Romania, for instance.
+"However, we need as many people now as possible. So before decision making I'd suggest that each person who has time for the final week shortly replies and says which thing he/she could do."
+ 
+Eduardo Luttner, James Bulmer, Patrick Dumon responded to offer to contribute with programming [?] Gareth Glynn suggested he write a narrative description of the expedition
+
+29 January: on the etherpad James Bulmer says he has no access to the Google+ page
+
+30 January: aunt Serena Fritsch offered help with programming.
+
+30 January: aunt Ian Borthwick offered help with the write up and proposed organising "discussion by categories of analysis (geography of fast food, BMI trends/anthropometrics, socio-economic factors) along with findings". He pointed out the need to add some visualisations to explain trends.
+"We would also need to discuss challenges/limitations, both in experiment set up as well as in remote implementation through a loosely nit group.
+The emphasis should be on learning we've achieved as well as suggestions to improve the conditions for any future expedition."
+
+Gareth and Michael Hoerz agreed but voiced concern about apparent lack of participation. Michael propsed an 8pm (that day) deadline for expressions of interest from aunts
+
