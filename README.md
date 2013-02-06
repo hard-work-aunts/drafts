@@ -22,3 +22,5 @@ http://okfnpad.org/hwa-dataquest (for comments on data sources)
 http://okfnpad.org/hwa-tech (for commenting technical aspects)
 
 *If a new repository is required please tell the admin, for now eluttner, puntofisso and shellz123 
+
+A (first) final version of the report (very basic, no visible visualisations) can be found at https://docs.google.com/document/d/1I2Rx7oMusqJpJdYFMW_dKYFqSFwKee7M5Ypxr9FWxlU/edit?usp=sharing
