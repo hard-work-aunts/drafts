@@ -23,18 +23,12 @@ I need help with:
 I want to learn:
 My favorite food:
 
-15 January: Michael Bauer <michael.bauer@okfn.org> of OKFN introduced himself as the aunts Guide; "for second line support - clarifying things mission
-control did not clarify enough - helping you out when you are stuck". 
+15 January: Michael Bauer <michael.bauer@okfn.org> of OKFN introduced himself as the aunts Guide; "for second line support - clarifying things mission control did not clarify enough - helping you out when you are stuck". 
 He noted: 
 * "Most of you already have done introductions: You are amazing. Ignore Mission Control for the time being…
-* "It is important that you as a group figure out how to best work together -
-how to communicate effectively and what tools to use to cooperate. (And
-don’t start a huge tool discussion - be pragmatic. please!. pretty
-please!). One thing that might help is to find a person willing to
-coordinate the group effort. So if you are willing to do so: step up!
+* "It is important that you as a group figure out how to best work together - how to communicate effectively and what tools to use to cooperate. (And don’t start a huge tool discussion - be pragmatic. please!. pretty please!). One thing that might help is to find a person willing to coordinate the group effort. So if you are willing to do so: step up!
 * Another team of explorers, "the Courteous Clauses, have already set up a Google+ Community to log their progress and a hackpad. I encourage all other groups to build similar things - figure out ways to work together...
-Do we want hangouts to get to know each other closer? How do you want to
-collect ideas, data and your reserach findings…"
+Do we want hangouts to get to know each other closer? How do you want to collect ideas, data and your reserach findings…"
 
 15 January: aunt Eduardo Luttner creates a Google+ group
 https://plus.google.com/u/0/communities/101460446662320267920
@@ -235,7 +229,7 @@ Once we have done this, we should quickly switch to the to-do list http://okfnpa
 "Only a rather small crowd appears active in the Etherpad (http://okfnpad.org/the-hard-working-aunts) - all of the regular contributors also are on Google+ - one suggestion therefor would be to switch back to G+ for the sake of readability and structure.
 
 WEEK3
-29 January: aunt Michael Hörz added: "I didn't want to suggest dropping the European data … I just wanted to say that we might not get the same level of detail for countries like Brazil or India. 
+29 January: aunt Michael Hoerz added: "I didn't want to suggest dropping the European data … I just wanted to say that we might not get the same level of detail for countries like Brazil or India. 
 "One other possibility would be doing two paths: 
 a) Comparing four countries such as USA, Brazil, GB and India on the general level.
 b) In-depth comparison of GB, France, Poland and Romania, for instance.
@@ -253,3 +247,29 @@ The emphasis should be on learning we've achieved as well as suggestions to impr
 
 Gareth and Michael Hoerz agreed but voiced concern about apparent lack of participation. Michael propsed an 8pm (that day) deadline for expressions of interest from aunts
 
+31 January: Gareth submits a thourough summary of the action so far by mail to the list.
+
+1 February: After having agreed on the private G+ group, a number aunts is added to the group. As it might be for technical reasons (spam filters etc.), not all seem to be able to access the group. 
+
+Patrick Dumon uploaded a vast data set on BMI by the WHO to the Github directory /raw-data, Michael Hoerz adds data provided by the FAO on food supply for the core countries that might come into question. Patrick Dumon announces to check for correlations of these data sets in R.
+
+Patrick Dumon remarks in the G+ group that he would be happy for someone joining in with R, but did not seem to find a helping hand.
+
+4 February: Mission Controll informs the Aunts that it's time for preparing the final reports and finding a common narrative.
+
+Michael H. uploads the draft of the report to Github (you are actually reading it).
+
+Collaborative editing isn't exactly soaring.
+
+5 February: Michael H. creates some Fusion Table maps which show the BMI in a number of countries (Brazil, Bulgaria, Czech Republic, Finland, France, Germany, India, Italy, Poland, United Kingdom, USA) for 1990 till 2009. The data is taken from the FAO (food), WHO (BMI and inactivity), income/capita and Gini index (World Bank + EU).
+
+1990: https://www.google.com/fusiontables/DataSource?docid=1bBITfjMwnhgbHdpY3UPOP1KtBgL0EhMogavb-Hk#map:id=3
+1995: https://www.google.com/fusiontables/DataSource?docid=18Cpu09aBkPav-Gn6FJjhURmUpevvqUmeR9EzLak#map:id=3
+2000: https://www.google.com/fusiontables/DataSource?docid=1ttp17ltg9aHk1IeCO3nHqIUu-CgVtrdf3KnU7Fg#map:id=3 
+2005: https://www.google.com/fusiontables/DataSource?docid=1x2XPvJ1KXX6xHKq3S7fpWWbvqEefPWVSQEEMlBI#map:id=3 
+2009: https://www.google.com/fusiontables/DataSource?docid=1rtokK7LkTAECqyadCxjdZ1muXHQ2FdPgvsCD414#map:id=3 
+
+An additional view of the 2009 data shows the daily energy supply in calories (4 calorie ranges: 2000-2500, 2500-3000, 3000-3500 and 3500+: 
+https://www.google.com/fusiontables/DataSource?docid=1usq3K27fxE3TaF_Mr6piJkLl5jQRRlj8-YYla5c#map:id=3
+
+6 February: Patrick Hausmann finalises his project of a very elaborate map on fast food outlets in the USA. It can be found at http://www.covimo.de/hwa/. He imported the food chain data James Bulmer and further processed it in order to be able to plot the outlet locations of six different fast food chains.
